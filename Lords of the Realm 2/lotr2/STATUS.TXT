@@ -1,0 +1,40 @@
+Lords2 - Debug and status report on Sun Aug 22
+------------------------------------------------------------
+ 17:37:23   OK :Sound - starting AIL 
+ 17:37:23   OK :Sound - started AIL 
+ 17:37:23   OK :Sound - started samples 
+ 17:37:23   OK :Start path is: C:\
+ 17:37:23   OK :Harddrive no is: 3
+ 17:37:23   OK :Game partialy setup.
+ 17:37:23   OK :Sys Gfx loaded OK.
+ 17:37:23   OK :SMK starting smack intro.smk
+ 17:37:23   OK :SMK natural end of intro.smk
+ 17:37:24   MEM:Max alloc after = 4001
+ 17:37:24   OK :SMK starting smack Null.smk
+ 17:37:24   ERR:SMK Could not open Null.smk
+ 17:37:24   MEM:Max alloc after = 4001
+ 17:37:24   OK :SMK starting smack imptitle.smk
+ 17:37:24   OK :SMK natural end of imptitle.smk
+ 17:37:24   MEM:Max alloc after = 4001
+ 17:37:24   OK :SMK starting smack Null.smk
+ 17:37:24   ERR:SMK Could not open Null.smk
+ 17:37:24   MEM:Max alloc after = 4001
+ 17:37:24   OK :SMK starting smack credits.smk
+ 17:37:24   OK :SMK natural end of credits.smk
+ 17:37:24   MEM:Max alloc after = 4001
+ 17:37:24   OK :SMK starting smack Null.smk
+ 17:37:24   ERR:SMK Could not open Null.smk
+ 17:37:24   MEM:Max alloc after = 4001
+ 17:37:25   OK :Data loaded OK.
+ 17:37:25   OK :Game fully setup.
+ 17:37:25   OK :Start free mem.4001
+ 17:37:25   OK :Sys2 Gfx loaded OK.
+ 17:37:25   OK :MAP scenario map01.pl8
+ 17:37:25   OK :setup_game executed.
+ 17:37:31   ERR:Sound - couldn't set sample file 
+ 17:37:32   OK :MAP scenario map01.pl8
+ 17:37:33   OK :Data loaded OK.
+ 17:37:33   OK :Sound - number of WAVS load into fx list = 11
+ 17:37:33   OK :Sys2 Gfx loaded OK.
+ 17:37:54   OK :Data loaded OK.
+ 17:38:18   OK :Exited normally.
